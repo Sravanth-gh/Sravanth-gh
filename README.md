@@ -94,11 +94,12 @@ Layer	Technologies
 ---
 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sravanth-gh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-gh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sravanth-gh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-gh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
 </div>
+<br/>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Sravanth-gh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Sravanth-gh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 ---
 🏆 Achievements & Certifications
@@ -127,7 +128,7 @@ Layer	Technologies
 ![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 </div>
-```
+```text
 🔭 Diving deep into:
    ├── 🦜 LangChain — building intelligent agent workflows
    ├── 🗃️ Vector Databases — Pinecone, ChromaDB, FAISS
