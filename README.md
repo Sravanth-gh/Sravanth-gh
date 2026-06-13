@@ -1,21 +1,12 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED TYPING BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Sravanth+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Web+Applications;Always+Learning+%7C+Always+Building+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I%27m+Sravanth+Kumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast;Building+AI-Powered+Web+Applications;Always+Learning+%7C+Always+Building+%F0%9F%9A%80)
 <br/>
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        PROFILE BADGES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Profile Views](https://komarev.com/ghpvc/?username=Sravanth-gh&style=for-the-badge&color=6C63FF)
 </div>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 🧑‍💻 About Me
 ```python
 class SravanthKumar:
@@ -47,9 +38,6 @@ me = SravanthKumar()
 print(me.current_focus())
 ```
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 🛠️ Tech Stack
 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,33 +50,28 @@ print(me.current_focus())
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logoColor=white)
 ⚙️ Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 🤖 AI & ML
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 🚀 Featured Projects
-<div align="center">
-🌍 AI Travel Planner
-</div>
+<h3 align="center">🌍 AI Travel Planner</h3>
 > An intelligent full-stack travel planning application powered by **LLaMA 3.1** via the Groq API. Users get personalized, AI-generated travel itineraries with full authentication, role-based admin access, and cloud database support.
 Layer	Technologies
 🎨 Frontend	React.js, Vite, JavaScript (ES6+), HTML5, CSS3, Axios
@@ -100,9 +83,7 @@ Layer	Technologies
 ![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)
 ---
-<div align="center">
-🏥 Life Care AI
-</div>
+<h3 align="center">🏥 Life Care AI</h3>
 > A smart AI-powered health assistant built with Streamlit and FastAPI. Users can describe emergencies, input health data, or **upload medical scanning reports** to receive AI-generated insights and analysis via the Groq API — making healthcare information more accessible.
 Layer	Technologies
 🎨 UI	Streamlit
@@ -111,21 +92,15 @@ Layer	Technologies
 📄 Features	Report Upload, Health Insights, Emergency Analysis
 ![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sravanth-gh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-gh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sravanth-gh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sravanth-gh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" width="48%" alt="Top Languages"/>
 </div>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sravanth-gh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Sravanth-gh&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </div>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS & CERTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 🏆 Achievements & Certifications
 <div align="center">
 🏅	Achievement / Certification	Issuer	Year
@@ -138,22 +113,19 @@ Layer	Technologies
 🤖	Introduction to Deep Learning	Infosys Springboard	Apr 2026
 🤖	Introduction to Generative AI	CodeChef	Mar 2026
 🐍	Free Python Course	GeeksforGeeks	2025
-🌦️	Build Weather App using APIs & JavaScript	LetsUpgrade × NSDC	Jul 2025
+🌦️	Build Weather App using APIs & JavaScript	LetsUpgrade x NSDC	Jul 2025
 🔧	Git & GitHub	CodeChef	Mar 2026
 🏆	Geekathon 2025 Participant	GFG Campus Body, REC	Sep 2025
 </div>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CURRENTLY LEARNING                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 📚 Currently Learning
 <div align="center">
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-FF6B6B?style=for-the-badge&logoColor=white)
 ![LLM Agents](https://img.shields.io/badge/LLM_Agents-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-00D4AA?style=for-the-badge&logo=google&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 </div>
 ```
 🔭 Diving deep into:
@@ -164,9 +136,6 @@ Layer	Technologies
    └── ☁️ Google Cloud Generative AI — Vertex AI & Gemini
 ```
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    OPEN TO COLLABORATE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 🤝 Open To
 <div align="center">
 💼 Full-time Roles	🔓 Open Source	🧠 AI Projects	🚀 Startup Ideas
@@ -175,12 +144,9 @@ Python Developer	Bug fixes & Features	AI Agents & Automation	MVP Development
 AI Application Dev	Documentation	Chatbots & Assistants	Side Projects
 </div>
 ---
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CONNECT WITH ME                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 📬 Connect With Me
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br/>
@@ -190,7 +156,7 @@ AI Application Dev	Documentation	Chatbots & Assistants	Side Projects
 > Whether it's a sleek React frontend, a blazing-fast FastAPI backend, or an AI agent that thinks for itself —
 > I'm always building, always learning. Let's create something amazing together! 🚀
 <br/>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+build+something+amazing+together!+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A7)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let%27s+build+something+amazing+together!+%F0%9F%A4%9D;Feel+free+to+reach+out+anytime!+%F0%9F%93%A7)
 </div>
 ---
 <div align="center">
