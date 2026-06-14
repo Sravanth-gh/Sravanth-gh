@@ -16,6 +16,19 @@
 
 ---
 
+💫 About Me:
+🚀 Hey, I’m Sravanth Kumar
+
+💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 Final-Year Student
+
+- 🔭 Building an AI-Powered Travel Planner
+- 🌱 Learning Generative AI & AI Agents
+- ⚡ Tech Stack: React, FastAPI, Python, MongoDB
+- 🎯 Interested in Full-Stack Development & AI Applications
+- 📚 Always learning and building new projects
+
+“Turning ideas into intelligent applications.”
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sravanth-kumar-m-64497b36b) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sravanth Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sravanthkumar8989@gmail.com) 
